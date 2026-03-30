@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AFA9EC&vCenter=true&width=500&lines=AI+%26+Data+Science+Engineer;Multimodal+AI+%7C+NLP+%7C+Computer+Vision;Building+intelligent+systems;ENSAM+Rabat+%7C+Morocco" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AFA9EC&vCenter=true&width=500&lines=AI+%26+Data+Science+Engineer;Multimodal+AI+%7C+NLP+%7C+Computer+Vision;Building+safe+intelligent+systems;ENSAM+Rabat+%7C+Morocco" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -20,10 +20,12 @@
 
 🎓 Final-year **AI, Data Science & Digital Health Engineering** student at **ENSAM Rabat**  
 🔬 Building multimodal models, CV systems & end-to-end ML pipelines  
-🌱 Currently: joint image-text representation learning (ResNet-50 + BERT)  
-🛡️ Interested in **AI safety**, mechanistic interpretability & applied deep learning  
-🌍 Based in Morocco · Open to research collaborations & internships  
-📫 **benbassou.hajar@gmail.com**
+🧠 Currently: aligning visual & textual representations using **ResNet-50 + BERT** on Flickr8K
+🛡️ Passionate about **AI safety**, mechanistic interpretability & responsible AI governance
+🌍 Morocco · seeking research internships & collaborations in applied AI
+📫 benbassou.hajar@gmail.com · [LinkedIn](https://linkedin.com/in/hajar-benbassou)
+
+> *"The goal is not to build smart machines — it's to build trustworthy ones."*
 
 ---
 
@@ -40,15 +42,17 @@
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hajar-125&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajar-125&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hajar-125&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=AFA9EC&icon_color=7F77DD&text_color=c9d1d9" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajar-125&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=AFA9EC&text_color=c9d1d9&langs_count=6" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hajar-125&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=hajar-125&theme=radical&hide_border=true&background=0d1117&ring=7F77DD&fire=AFA9EC&currStreakLabel=AFA9EC&sideLabels=c9d1d9&dates=8b949e" height="170"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hajar-125&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6" />
+</p>
 ---
 
 ## 🚀 Featured projects
@@ -63,5 +67,5 @@
 ---
 
 <p align="center">
-  <sub>✨ Always learning · Building in public · Open to AI research collaborations</sub>
+  <sub>-THINK DIFFERENT-</sub>
 </p>
