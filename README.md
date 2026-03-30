@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/07/6c/87/076c873edc060c289cb4264431d08bcd.jpg" width="100%" alt="Hajar Benbassou"/>
+  <img src="https://i.pinimg.com/1200x/50/8a/b6/508ab6e1b12db69672d9bf2b1f795094.jpg" width="100%" alt="Hajar Benbassou"/>
 </p>
 
 <p align="center">
