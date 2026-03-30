@@ -1,13 +1,11 @@
-# Hajar_Benbassou
-
+<p align="center">
+  <img src="[YOUR_BANNER_URL_HERE](https://pin.it/6IUMcO8IQ)" width="100%" alt="Hajar Benbassou"/>
+</p>
 # 👋 Hi, I'm Hajar Benbassou
 
 ### AI, Data Science & Digital Health Student @ ENSAM Rabat
 🎯 Interested in AI Governance, Deep Learning & Computer Vision
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
-</p>
 
 ---
 
