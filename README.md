@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="[YOUR_DIRECT_IMAGE_URL](https://pin.it/4pkTxpC9u)" width="100%" alt="Hajar Benbassou banner"/>
+  <img src="[[YOUR_DIRECT_IMAGE_URL](https://pin.it/4pkTxpC9u)](https://i.pinimg.com/736x/b2/8b/0d/b28b0d1eba8bdf553999d3df5215e364.jpg)" width="100%" alt="Hajar Benbassou banner"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AFA9EC&center=true&width=500&lines=AI+%26+Data+Science+Engineer;Multimodal+AI+%7C+NLP+%7C+Computer+Vision;Building+intelligent+systems+🤖;ENSAM+Rabat+%7C+Morocco" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AFA9EC&vCenter=true&width=500&lines=AI+%26+Data+Science+Engineer;Multimodal+AI+%7C+NLP+%7C+Computer+Vision;Building+intelligent+systems;ENSAM+Rabat+%7C+Morocco" alt="Typing SVG"/>
   </a>
 </p>
 
