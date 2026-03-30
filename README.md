@@ -19,23 +19,15 @@
 - 🏃 **Fun Fact:** I'm a 10km runner!
 
 
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+###🛡️ Core Tech Stack & Security Tools
 
-
-### 🛡️ Cybersecurity & AI Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFA586?style=for-the-badge&logo=python&logoColor=161E2F" />
+  <img src="https://img.shields.io/badge/PyTorch-B51A2B?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-242F49?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=dependabot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Network_Programming-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-FFA586?style=for-the-badge&logo=mysql&logoColor=161E2F" />
+  <img src="https://img.shields.io/badge/Linux-B51A2B?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 ### 🛡️ Featured Security & AI Projects
@@ -45,18 +37,12 @@
 
 ## 🔥 Featured Projects
 
-### 🗑️ Waste Classification (CNN)
-
-* Image classification using TrashNet dataset
-* Data augmentation with Albumentations
-* Model evaluation with confusion matrix
-
 
 
 ## 🌐 Connect With Me
 
 📧 [benbassou.hajar@gmail.com](mailto:your@email.com)
-🔗 LinkedIn: [your-link](https://www.linkedin.com/in/hajar-benbassou-7427202a6/)
+🔗 LinkedIn: [My-Linkedin](https://www.linkedin.com/in/hajar-benbassou-7427202a6/)
 
 ---
 
