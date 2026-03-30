@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[[YOUR_DIRECT_IMAGE_URL](https://pin.it/4pkTxpC9u)](https://i.pinimg.com/736x/b2/8b/0d/b28b0d1eba8bdf553999d3df5215e364.jpg)" width="100%" alt="Hajar Benbassou banner"/>
+  <img src="[YOUR_DIRECT_IMAGE_URL](https://i.pinimg.com/736x/b2/8b/0d/b28b0d1eba8bdf553999d3df5215e364.jpg)" width="100%" alt="Hajar Benbassou banner"/>
 </p>
 
 <p align="center">
