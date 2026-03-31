@@ -24,9 +24,13 @@
 ### 👩‍💻 About me
 
 🎓 Final-year **AI, Data Science & Digital Health Engineering** student at **ENSAM Rabat**
+
 🔬 Obsessed with making machines see, read, and understand the world — together
+
 🧠 Currently aligning visual & textual representations using **ResNet-50 + BERT** on Flickr8K
+
 🛡️ Passionate about **AI safety**, mechanistic interpretability & responsible AI governance
+
 🌍 Morocco · seeking research internships & collaborations in applied AI
 📫 benbassou.hajar@gmail.com
 
