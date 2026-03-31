@@ -24,6 +24,7 @@
 ### 👩‍💻 About me
 
 🎓 Final-year **AI, Data Science & Digital Health Engineering** student at **ENSAM Rabat**
+
 🔬 Obsessed with making machines see, read, and understand the world — together
 
 🧠 Currently aligning visual & textual representations using **ResNet-50 + BERT** on Flickr8K
@@ -31,13 +32,14 @@
 🛡️ Passionate about **AI safety**, mechanistic interpretability & responsible AI governance
 
 🌍 Morocco · seeking research internships & collaborations in applied AI
+
 📫 benbassou.hajar@gmail.com
 
 > *"The goal is not to build smart machines — it's to build trustworthy ones."*
 
 </td>
 <td valign="top" width="40%">
-  <img src="https://i.pinimg.com/736x/85/77/5a/85775a8a0168ecd848e45e7baf8cac27.jpg" width="100%"/>
+  <img src="https://i.pinimg.com/1200x/e7/db/c5/e7dbc54f1131e503962edfad7afbed38.jpg" width="100%"/>
 </td>
 </tr>
 </table>
