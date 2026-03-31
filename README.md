@@ -1,10 +1,12 @@
+<h2 align="center">✨ Hey everyone, I'm Hajar !</h2>
+
 <p align="center">
   <img src="https://i.pinimg.com/1200x/3b/74/71/3b7471e32825ba70ebb1c39bda7329f3.jpg" width="100%" height="250" style="object-fit: cover;"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AFA9EC&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Engineer;Multimodal+AI+%7C+NLP+%7C+Computer+Vision;Building+intelligent+systems;ENSAM+Rabat+%7C+Morocco" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AFA9EC&center=true&vCenter=true&width=500&lines=Welcome+To+My+Github;AI+%26+Data+Science+Engineer;Multimodal+AI+%7C+NLP+%7C+Computer+Vision;Building+intelligent+systems;ENSAM+Rabat+%7C+Morocco" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -15,18 +17,27 @@
 </p>
 
 ---
+<table>
+<tr>
+<td valign="top" width="60%">
 
-## 👩‍💻 About me
+### 👩‍💻 About me
 
-🎓 Final-year **AI, Data Science & Digital Health Engineering** student at **ENSAM Rabat**  
-🔬 Building multimodal models, CV systems & end-to-end ML pipelines  
-🧠 Currently: aligning visual & textual representations using **ResNet-50 + BERT** on Flickr8K
+🎓 Final-year **AI, Data Science & Digital Health Engineering** student at **ENSAM Rabat**
+🔬 Obsessed with making machines see, read, and understand the world — together
+🧠 Currently aligning visual & textual representations using **ResNet-50 + BERT** on Flickr8K
 🛡️ Passionate about **AI safety**, mechanistic interpretability & responsible AI governance
 🌍 Morocco · seeking research internships & collaborations in applied AI
-📫 benbassou.hajar@gmail.com · [LinkedIn](https://linkedin.com/in/hajar-benbassou)
+📫 benbassou.hajar@gmail.com
 
 > *"The goal is not to build smart machines — it's to build trustworthy ones."*
 
+</td>
+<td valign="top" width="40%">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+</td>
+</tr>
+</table>
 ---
 
 ## 🛠 Languages & tools
