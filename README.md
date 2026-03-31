@@ -34,7 +34,7 @@
 
 </td>
 <td valign="top" width="40%">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+  <img src="https://i.pinimg.com/736x/85/77/5a/85775a8a0168ecd848e45e7baf8cac27.jpg" width="100%"/>
 </td>
 </tr>
 </table>
