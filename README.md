@@ -21,7 +21,7 @@
 <tr>
 <td valign="top" width="60%">
 
-### 👩‍💻 About me
+## 👩‍💻 Get To Know Me
 
 🎓 Final-year **AI, Data Science & Digital Health Engineering** student at **ENSAM Rabat**
 
@@ -70,7 +70,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hajar-125&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6"/>
 </p>
----
+
 
 ## 🚀 Featured projects
 
