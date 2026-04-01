@@ -45,7 +45,7 @@
 </table>
 ---
 
-## 🛠 Languages & tools
+<h2 align="center"> 🛠 Languages & tools </h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -55,7 +55,7 @@
 
 ---
 
-## 📊 GitHub stats
+<h2 align="center">  📊 GitHub stats </h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hajar-125&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=AFA9EC&icon_color=7F77DD&text_color=c9d1d9&theme=radical" height="170"/>
@@ -72,7 +72,7 @@
 </p>
 
 
-## 🚀 Recent Featured projects
+<h2 align="center"> 🚀 Recent Featured projects </h2>
 
 | Project | Description | Stack |
 |---------|-------------|-------|
