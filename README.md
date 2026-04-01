@@ -21,7 +21,7 @@
 <tr>
 <td valign="top" width="60%">
 
-## 👩‍💻 Get To Know Me
+<h2 align="center"> 👩‍💻 Get To Know Me </h2>
 
 🎓 Final-year **AI, Data Science & Digital Health Engineering** student at **ENSAM Rabat**
 
@@ -72,7 +72,7 @@
 </p>
 
 
-## 🚀 Featured projects
+## 🚀 Recent Featured projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
