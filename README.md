@@ -82,7 +82,9 @@
 | [java-email-manager](https://github.com/hajar-125/java-email-manager) | Multi-account email desktop app with scheduled sending | Java · Swing · JavaMail |
 
 ---
-
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQ5MTE0NzQsIm5iZiI6MTc3NDkxMTE3NCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzMwVDIyNTI1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNjNzYxOGYyOTg2NTZmYmZkYmI2ZTgwZmU5MTYxMTM1YmQ5ZmUzNDBjMDczNGIzYzVmNDU0Yjg5ZWVjMDU4YmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.tfO7o_3oLkKnLmnCj9Kv-luMZ7oBi4QpLyFKBg79zkc" width="100%" height="250" style="object-fit: cover;"alt="Hajar Benbassou"/>
+</p>
 <p align="center">
   <sub>-THINK DIFFERENT-</sub>
 </p>
